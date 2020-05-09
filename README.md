@@ -1,6 +1,9 @@
 LQ Examples
 ===========
-The examples in the [LQ](LQ) show how to use LQ.
+The example code in the [LQ](LQ) folder demonstrate usage of the LQ library.
+
+Opening and editing the code requires installing a released version of LQ (see
+https://jksh.github.io/LQ-Bindings/ ).
 
 "Hello World - Introduction to Widgets" is the recommended starting point; it
 consists of 6 small tutorials where each tutorial builds upon the previous.
