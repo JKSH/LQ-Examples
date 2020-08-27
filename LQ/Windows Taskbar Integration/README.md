@@ -22,10 +22,3 @@ Instructions
 Showcase
 --------
 - API for manipulating the Windows task bar
-
-
-Known issues
-------------
-- After starting and stopping _Main.vi_(or any other VI that uses LQ), you must
-  fully unload and reload the DLLs first in order to run this example again
-  (e.g. by restarting LabVIEW)
