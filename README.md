@@ -13,4 +13,4 @@ The [exbins](exbins) folder contains the data file for integration with the
 
 Licensing
 ---------
-All example code is published under the [MIT license](LQ/LICENSE.MIT).
+All example code is published under the [MIT license](LICENSE.MIT).
